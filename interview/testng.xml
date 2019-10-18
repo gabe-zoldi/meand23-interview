@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="23andMe Interview Test Suite">
+    
+   <test verbose="2" name="Coding Exercise" annotations="JDK">
+      <classes>
+         <class name="DeflatorTest" />
+      </classes>
+   </test>
+
+</suite>
