@@ -1,6 +1,5 @@
 # 23andMe Interview
 
-/*
 Write a function that takes a string and returns a "compressed" version
 of that string where repeated characters are represented by the character
 followed by the number of times it was repeated.
@@ -13,7 +12,6 @@ compress('abcabc') -> 'abcabc'
 compress('bbbaaabbbaaa') -> 'b3a3b3a3'
 
 How should we test this?
-*/
 
 /*
  * To execute Java, please define "static void main" on a class
