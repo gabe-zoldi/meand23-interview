@@ -1,4 +1,4 @@
-# Netflix Interview
+# 23andMe Interview
 
 ## Coding Exercise (RestAssured)
 
