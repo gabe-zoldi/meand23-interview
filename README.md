@@ -1,5 +1,28 @@
 # 23andMe Interview
 
+/*
+Write a function that takes a string and returns a "compressed" version
+of that string where repeated characters are represented by the character
+followed by the number of times it was repeated.
+
+Examples:
+compress('abc') -> 'abc'
+compress('aabbcc') -> 'a2b2c2'
+compress('abbbcc') -> 'ab3c2'
+compress('abcabc') -> 'abcabc'
+compress('bbbaaabbbaaa') -> 'b3a3b3a3'
+
+How should we test this?
+*/
+
+/*
+ * To execute Java, please define "static void main" on a class
+ * named Solution.
+ *
+ * If you need more classes, simply define them inline.
+ */
+ 
+ 
 ## Coding Exercise (RestAssured)
 
 test location: com.acme.qa.site.bluntusa.test.functional.cart.AddSingleItem
